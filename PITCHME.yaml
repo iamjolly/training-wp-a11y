@@ -1,0 +1,50 @@
+# GitPitch In-60-Seconds - A Very Short Tutorial.
+#
+
+#
+# Theme Setting
+# Doc: https://gitpitch.com/docs/settings/theme
+#
+theme : simple
+
+transition : fade
+
+#
+# Theme-Override Setting
+# Doc: https://gitpitch.com/docs/settings/custom-theme
+#
+theme-override: assets/css/PITCHME.css
+
+#
+# Logo Setting
+# https://gitpitch.com/docs/settings/logo
+#
+# logo : assets/img/knowbility-logo.svg
+# logo-postion : bottom-right
+
+#
+# Layout Setting
+# Doc: https://gitpitch.com/docs/settings/layout
+#
+layout : center
+
+background-color : #0D0823
+
+#
+# Footnote Setting
+# Doc: https://gitpitch.com/docs/settings/footnote
+#
+footnote : "The WAI Forward with Accessibility | TechAccessOK 2019"
+
+#
+# Published Setting
+# Doc: https://gitpitch.com/docs/settings/published
+#
+published : true
+
+#
+# Twitter Card Settings [Pro Only]
+# Doc: https://gitpitch.com/docs/settings/twitter-card
+#
+title : "The WAI Forward with Accessibility"
+description : "A presentation at TechAccessOK 2019 by Robert Jolly to highlight free resources from the W3C’s Web Accessibility Initiative (WAI) that everyone can use today."

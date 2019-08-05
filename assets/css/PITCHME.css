@@ -1,0 +1,165 @@
+@font-face {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/assets/fonts/work-sans-normal.woff2') format('woff2'),
+         url('/assets/fonts/work-sans-normal.woff') format('woff');
+  }
+  
+  .work-sans,
+  .work-sans * {
+    text-shadow: none !important;
+    text-transform: none !important;
+    font-family: "Work Sans", sans-serif !important;
+  }
+
+
+@font-face {
+    font-family: 'Work Sans Medium';
+    font-style: normal;
+    font-weight: 600;
+    src: url('/assets/fonts/work-sans-medium.woff2') format('woff2'),
+         url('/assets/fonts/work-sans-medium.woff') format('woff');
+  }
+  
+  .work-sans-medium,
+  .work-sans-medium * {
+    text-shadow: none !important;
+    text-transform: none !important;
+    font-family: "Work Sans Medium", sans-serif !important;
+  }
+
+  @font-face {
+    font-family: 'Work Sans Heavy';
+    font-style: normal;
+    font-weight: 900;
+    src: url('/assets/fonts/work-sans-heavy.woff2') format('woff2'),
+         url('/assets/fonts/work-sans-heavy.woff') format('woff');
+  }
+  
+  .work-sans-heavy,
+  .work-sans-heavy * {
+    text-shadow: none !important;
+    text-transform: none !important;
+    font-family: "Work Sans Heavy", sans-serif !important;
+  }
+  
+.reveal h1 {
+  text-shadow: none !important;
+  text-transform: none !important;
+  font-family: "Work Sans Heavy", sans-serif !important;
+}
+
+.reveal h2 {
+    text-shadow: none !important;
+    text-transform: none !important;
+    font-family: "Work Sans Medium", sans-serif !important;
+  }
+
+.reveal h3 {
+  text-shadow: none !important;
+  text-transform: none !important;
+  font-family: "Work Sans", sans-serif !important;
+}      
+
+.slides section img {
+    margin: unset;
+    background: unset;
+    border: unset;
+    box-shadow: unset;
+}
+
+img[alt="Knowbility"] {
+    width: 500px;
+    height: auto;
+    margin: 0 0 4rem !important;
+}
+
+img[alt="W3C Member"] {
+    max-width: 300px;
+    max-height: 120px;
+    margin: 4rem 0 0 !important;
+}
+
+#title-footer {
+    background: rgba(0,0,0,0.8);
+}
+
+#title-footer p.footer-fade {
+    color: #d2d2d2;
+    font-size: 1rem;
+    letter-spacing: unset;
+    padding: 0.5rem;
+}
+
+.reveal section.has-light-background a {
+    color: #710f36;
+    text-decoration: underline;
+}
+
+.reveal section.has-light-background a:focus {
+    color: #ffffff;
+    background-color: #710f36;
+    text-decoration: underline;
+    outline: none;
+}
+
+.reveal section.has-dark-background a {
+    color:  #B3EFFF;
+    text-decoration: underline;
+}
+
+.reveal section.has-dark-background a:focus {
+    color: #0D0823;
+    background-color: #B3EFFF;
+    text-decoration: underline;
+    outline: none;
+}
+
+.shortlink {
+    padding: 2rem !important;
+    background-color: rgba(13, 8, 35, 0.75);
+    color: #FFEE00;
+    margin: 3rem !important;
+    bottom: 55px;
+    font-size: 3rem !important;
+    font-weight: 700 !important;
+}
+
+.contrast-darken {
+    background-color: rgba(0, 0, 0, .5);
+    padding: 2rem !important;
+    margin: 0 !important;
+    border-radius: 1.2rem;
+}
+
+ul.text-white.text-08.widen {
+  width: 90%;
+  padding: 0 2rem;
+}
+
+.vh {
+  position: absolute !important; 
+  overflow: hidden !important; 
+  clip: rect(0 0 0 0) !important; 
+  height: 1px !important;
+  width: 1px !important; 
+  margin: -1px !important; 
+  padding: 0 !important; 
+  border: 0 !important; 
+}
+
+p#notification.footer-hard {
+  color: #ffffff;
+}
+
+p#notification.footer-hard a, p#notification.footer-hard a:visited, p#notification.footer-hard a:active {
+  color: #FF46C3 !important;
+  text-decoration: underline;
+  padding: 0.4rem;
+}
+
+p#notification.footer-hard a:focus {
+  color: #000000 !important;
+  background-color: #FF46C3 !important;
+}
