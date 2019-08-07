@@ -319,8 +319,127 @@ Questions? How do you test your work?
 @snapend
 
 @snap[midpoint span-80]
-We’ll return in **one hour** for:<br>
+We’ll return in **45 minutes** for:<br>
 WP Accessibility for Content Authors
+@snapend
+
+---?color=#0D0823
+
+@snap[north span-100 text-06]
+## Welcome Back!
+@snapend
+
+@snap[midpoint span-80 text-08]
+Let’s cover some questions from before the break:
+
+@ul
+- Reader Mode in browsers
+- How Screen Readers work with sites
+- Anything else?
+@ulend
+@snapend
+
+---?color=#ECECEC
+
+@snap[north span-100 text-06]
+## Authoring Accessible WP Content
+@snapend
+
+@snap[midpoint span-80 text-08]
+@ul
+- The Gutenberg Editor
+  - [Known accessibility issues](https://github.com/WordPress/gutenberg/labels/Accessibility)
+  - You can still author accessible content using Gutenberg!
+- The Classic Editor
+@ulend
+@snapend
+
+---?color=#0D0823
+
+@snap[north span-100 text-06]
+## Authoring Content - Structure
+@snapend
+
+@snap[midpoint span-80]
+@ul[spaced text-white text-10]
+- Accessible document structure in pages and posts
+  - Page/post title
+  - Headings hierarchy
+  - Lists
+  - Tables
+@ulend
+@snapend
+
+---?color=#0D0823
+
+@snap[north span-100 text-06]
+## Authoring Content - Plain Language
+@snapend
+
+@snap[midpoint span-80]
+@ul[spaced text-white text-10]
+- Logical order
+- Front-load important details
+- Active voice
+- Familiar language
+- Indicate language changes
+@ulend
+@snapend
+
+---?color=#0D0823
+
+@snap[north span-100 text-06]
+## Authoring Content - Images
+@snapend
+
+@snap[midpoint span-80]
+@ul[spaced text-white text-10]
+- Alt vs title -- Why??
+- [An alt Decision Tree](https://www.w3.org/WAI/tutorials/images/decision-tree/) by the W3C
+- Using the WP Media Library
+- Simple images
+- Complex images
+@ulend
+@snapend
+
+---?color=#0D0823
+
+@snap[north span-100 text-06]
+## Authoring Content - Links
+@snapend
+
+@snap[midpoint span-80]
+@ul[spaced text-white text-10]
+- Meaningful, unique names for links
+- Adding context for “read more” links
+@ulend
+@snapend
+
+---?color=#0D0823
+
+@snap[north span-100 text-06]
+## Authoring Content - Multimedia
+@snapend
+
+@snap[midpoint span-80]
+@ul[spaced text-white text-10]
+- Video/Audio
+  - Alternative to, not replacement for, text!
+- Video: Captioning
+  - Closed vs open
+  - Auto-generated captions
+- Audio: Transcripts
+@ulend
+@snapend
+
+---?color=#0D0823
+
+@snap[north span-100 text-06]
+## Final Q & A
+@snapend
+
+@snap[midpoint span-80]
+Any burning questions?
 @snapend
 
 ---?color=#0D0823&image=assets/img/keep-on-trekking.jpg&size=cover
@@ -328,5 +447,5 @@ WP Accessibility for Content Authors
 @snap[north span-100 text-06 contrast-darken]
 ## Thank You!
 
-Keep trekking on with your accessibility journey.
+Keep climbing higher on your accessibility journey.
 @snapend
