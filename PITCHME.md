@@ -142,7 +142,7 @@ Do you have any questions so far?
 @snapend
 
 @snap[midpoint span-75]
-[@img[Accessibility Theme Review Handbook - opens in new window](assets/img/themes-a-r-review.jpg)](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
+[@img[Accessibility Theme Review Handbook - opens in new window](assets/img/themes-a-r-review.jpg)](https://make.wordpress.org/themes/handbook/review/accessibility/required/)
 @snapend
 
 ---?color=#ECECEC
